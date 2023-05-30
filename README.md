@@ -1,5 +1,5 @@
 
-
+![logo2](https://github.com/chiragdua26/chiragdua26/blob/948dda192537a139ba2b01beb1dcb09336a2e971/banner%20(2).gif)
 
 <h1 align="center">Hi 👋, I'm Chirag Dua</h1>
 <h3 align="center">Passionate Software Developer | Transforming Ideas into Elegant Solutions</h3>
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragdua26&label=Profile%20views&color=0e75b6&style=flat" alt="chiragdua26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@chiragdua359446" target="blank"><img src="https://img.shields.io/twitter/follow/@chiragdua359446?logo=twitter&style=for-the-badge" alt="@chiragdua359446" /></a> </p>
-![logo2](https://github.com/chiragdua26/chiragdua26/blob/948dda192537a139ba2b01beb1dcb09336a2e971/banner%20(2).gif)
+
 - 👨‍💻 All of my projects are available at [chiragdua26.github.io](chiragdua26.github.io)
 
 - 💬 Ask me about **anything related to software development, from best practices and coding techniques to frameworks and tools—I'm here to share my knowledge and help you on your coding journey. Let's embark on a conversation that ignites our coding passion!**
