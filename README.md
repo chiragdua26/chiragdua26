@@ -1,6 +1,6 @@
 
 
-![logo2](https://github.com/chiragdua26/chiragdua26/blob/edec6cfc5ed8df0e66eb5b75de507159fd9abdcc/ENjk.gif)
+![logo2](https://github.com/chiragdua26/chiragdua26/blob/948dda192537a139ba2b01beb1dcb09336a2e971/banner%20(2).gif)
 <h1 align="center">Hi 👋, I'm Chirag Dua</h1>
 <h3 align="center">Passionate Software Developer | Transforming Ideas into Elegant Solutions</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
